@@ -9,7 +9,7 @@ In the dataset, there are 207,873 transactions of purchasing. This dataset conta
 
 Instruction to run the codes
 There are 3 steps:
-1. first, run project.py. (in python) it will return a complete graph and create a destance dataframe (df3.csv) to be used further
+1. first, run Product_Recommendation_project.py. (in python) it will return a complete graph and create a destance dataframe (df3.csv) to be used further
 
 2.Then, run make_symmetric_distance_matrix.py (in python) to convert df3.csv to be sym_dist_matrix.csv
 
