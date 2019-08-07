@@ -2,7 +2,7 @@
 This project helps Retail Industries to analyze the purchase transactions and come up with the Product Recommendation.
 This project compares 2 methods, Bayesian method called Apriori algorithm with Hierarchical Clustering method, which also made use of NetworkX to find the relationship between each products.
 
-In the dataset, there are 207,873 transactions of purchasing. This dataset contains 24 kinds of product. The figures show the Co-occurrence count graph of all the 24 products, and the result from Hierarchical Clustering result of and compares this result to the one we get from Apriori algorithm (Bayesian method)
+The dataset consists of 207,873 purchasing transactions. This dataset contains 24 kinds of product. The figures show the Co-occurrence count graph of all the 24 products, and the result from Hierarchical Clustering result of and compares this result to the one we get from Apriori algorithm (Bayesian method)
 
 (P.S. The other way to make a promotion to the customer is to do customer segmentation on this transaction data using RFM criteria)
 
